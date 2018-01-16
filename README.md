@@ -37,6 +37,7 @@ TheHive can also be [built from sources](installation/build-guide.md).
 - [Configuration guide](admin/configuration.md)
 - [Updating](admin/updating.md)
 - [Backup & Restore](admin/backup-restore.md)
+- [Cluster configuration](admin/cluster.md)
 
 ## Developer Guides
 
