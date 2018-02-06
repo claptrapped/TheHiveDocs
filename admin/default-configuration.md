@@ -7,7 +7,7 @@ play.modules.enabled += global.TheHive
 # handler for requests (check if database is in maintenance or not)
 #play.http.requestHandler = TheHiveHostRequestHandler
 
-play.http.filters = global.TheHiveFilters
+#play.http.filters = global.TheHiveFilters
 
 # maximum number of similar cases
 maxSimilarCases = 100
